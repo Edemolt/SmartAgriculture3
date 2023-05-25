@@ -1,0 +1,16 @@
+html{
+  background-image: url('./resources/pic.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-position: center; */
+  
+}
+
+
+.shop-div{
+  display: flex;
+  box-sizing: border-box;
+  font-weight: bold;
+  color: black;
+  margin: 20px solid black;
+}

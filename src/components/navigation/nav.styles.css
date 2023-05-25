@@ -1,0 +1,30 @@
+.encloser{
+    font-family: 'Zen Kurenaido';
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+}
+
+.encloser:hover{
+    cursor: pointer;
+    
+}
+.box{
+    margin: 80px;
+    border-radius: 25px;
+    padding: 30px 30px;
+    flex : 1;
+    margin: 10px solid rgb(71, 65, 65);
+    color: rgb(80, 114, 154);
+    background-color: rgba(255, 255, 255, 0.7);
+    /* opacity: 0.7; */
+
+    /* padding-top: 50px; */
+
+}

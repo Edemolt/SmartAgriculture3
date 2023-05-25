@@ -1,0 +1,22 @@
+
+ .basic-div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-family: 'Zen Kurenaido';
+    font-size: 30px;
+    color: wheat;
+    background-color: rgb(60, 65, 65, 0.7);
+    /* opacity: 0.7; */
+ }
+
+ .basic-div:hover{
+    cursor: pointer;
+ }
+ 
+.centre-class{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
